@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "build_date": "2024-11-14T12:00:00Z",
+  "features": [
+    "Landing page with logo",
+    "Producer directory",
+    "Unified login system",
+    "Admin dashboard",
+    "Settings page with logo upload",
+    "Campaign management",
+    "Email templates",
+    "Producer import",
+    "Admin management",
+    "Password reset system"
+  ],
+  "routes": [
+    "/",
+    "/directory",
+    "/login",
+    "/admin/dashboard",
+    "/admin/settings",
+    "/admin/templates",
+    "/admin/campaigns",
+    "/admin/import",
+    "/admin/admins"
+  ]
+}
